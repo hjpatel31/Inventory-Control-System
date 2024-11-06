@@ -3,7 +3,6 @@ Description: The Inventory Control System is a program designed to simplify inve
 
 Programmer: HELI JITENDRAKUMAR PATEL
 Date: December 07, 2023
-PROJECT 
 */
 
 #define _CRT_SECURE_NO_WARNINGS
